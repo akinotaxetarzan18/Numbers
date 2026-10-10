@@ -210,4 +210,4 @@ Numbers is a complete free version, offering all features and updates included. 
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-10 13:19:42 UTC
+**Last updated:** 2026-10-10 18:14:45 UTC
